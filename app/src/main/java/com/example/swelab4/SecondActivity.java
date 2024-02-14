@@ -21,3 +21,5 @@ public class SecondActivity extends AppCompatActivity {
         receiver_msg.setText("Hello, " + str + "!");
     }
 }
+
+//Mram Aljardan - Lab4
